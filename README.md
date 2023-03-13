@@ -1,10 +1,10 @@
 # PasscodeRandomizer
 The official repository for the Passcode Randomizer application
 
-Developed as part of the University of Glasgow research project course in Human Centred Security.
-Developer: Sayan Bandyopadhyay
-Date: 2023-03-13
-License: MIT License
+Developed as part of the University of Glasgow research project course in Human Centred Security. <br>
+Developer: Sayan Bandyopadhyay <br>
+Date: 2023-03-13 <br>
+License: MIT License <br> 
 
 # <PasscodeRandomizer>
 
@@ -17,8 +17,6 @@ This application was developed as part of the University of Glasgow research pro
 - The research study is provided:-
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -72,8 +70,6 @@ SOFTWARE.
 ---
 
 ## Features
-
-If your project has a lot of features, list them here.
 
 - For User Testing and Feedback
 - Developers can use this to test passcode recognition
