@@ -45,7 +45,7 @@ The screenshots from the running application ensure that there is proper usage a
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2023] [Sayan Bandyopadhyay]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
